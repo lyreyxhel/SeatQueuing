@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dinein.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDinein.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormReservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
